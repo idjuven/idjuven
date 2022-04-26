@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idjuven
-- 👀 I’m interested in data science, spectroscopy data, machine learning
-- 🌱 I’m currently learning python, data science
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested in software development, data science, chemistry data, machine learning
+- 🌱 I’m currently learning JAVA, HTML, CSS, JavaScript, python, data science
+- 💞️ I’m looking to collaborate on software development and data science
 - 📫 How to reach me shenl024@hotmail.com
 
 <!---
